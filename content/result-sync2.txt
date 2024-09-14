@@ -1,0 +1,5 @@
+Here is the result of merging two files: 
+ first: This is first text file and second: This is second txt fileHere is the result of merging two files: 
+ first: This is first text file
+
+First commer good man and second: This is second txt file

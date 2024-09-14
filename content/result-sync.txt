@@ -1,0 +1,5 @@
+Merging first.txt and second.txt:
+ This is first text file 
+ This is second txt fileMerging first.txt and second.txt:
+ This is first text file 
+ This is second txt file
